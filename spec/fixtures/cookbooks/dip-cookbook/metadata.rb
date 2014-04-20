@@ -1,0 +1,5 @@
+name             'dip-cookbook'
+maintainer       'Jean Mertz'
+maintainer_email 'jean@mertz.fm'
+license          'Apache 2.0'
+version          '1.0.0'
